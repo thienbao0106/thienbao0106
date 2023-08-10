@@ -15,5 +15,5 @@ Tools that I usually use:<br/>
 
 My stats:<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1sion1601)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1sion1601&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thienbao0106)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thienbao0106&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
